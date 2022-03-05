@@ -17,6 +17,6 @@ Push desktop notification when someone comes online in WhatsApp
 5. Come back to terminal and confirm with 'Y'
 6. Minimize (don't close) all windows generated (optional)
 
-You're all done! You will get a desktop notification whenever that selected person will come online. You can also select some another person to check the online status on the same go.
+You're all done! You will get a desktop notification whenever that selected person will come online. You can select some another person as well to check the online status on the same go.
 
 ### All the best!

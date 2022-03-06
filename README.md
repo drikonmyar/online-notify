@@ -3,7 +3,6 @@ Push desktop notification when someone comes online in WhatsApp
 
 ![sample](https://user-images.githubusercontent.com/100990020/156877847-5184382c-ab1b-4d3f-94ef-5c2b4aad8526.PNG)
 
-
 # Prerequisities
 1. Latest selenium webdriver that matches with the version of chrome browser installed
 2. Selenium - pip install selenium
@@ -18,5 +17,11 @@ Push desktop notification when someone comes online in WhatsApp
 6. Minimize (don't close) all windows generated (optional)
 
 You're all done! You will get a desktop notification whenever that selected person will come online. You can select some another person as well to check the online status on the same go.
+
+# Precautions
+
+WhatsApp doesn't encourage users to scrape personal data of other users. So it will be a good idea not to use your primary WhatsApp account while login, use another account instead. Otherwise your account may get "Temporarily banned".
+
+![precaution](https://user-images.githubusercontent.com/100990020/156909311-156b1526-eeb3-4e7c-90bd-e8bd88376d26.PNG)
 
 ### All the best!

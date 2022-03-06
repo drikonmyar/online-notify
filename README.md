@@ -24,4 +24,6 @@ WhatsApp doesn't encourage users to scrape personal data of other users. So it w
 
 ![precaution](https://user-images.githubusercontent.com/100990020/156909311-156b1526-eeb3-4e7c-90bd-e8bd88376d26.PNG)
 
+Take a look - https://faq.whatsapp.com/general/temporarily-banned/about-temporarily-banned-accounts/?lang=en
+
 ### All the best!

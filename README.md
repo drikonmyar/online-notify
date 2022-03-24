@@ -20,7 +20,7 @@ You're all done! You will get a desktop notification whenever that selected pers
 
 # Precautions
 
-WhatsApp doesn't encourage users to scrape personal data of other users. So it will be a good idea not to use your primary WhatsApp account while login, use another account instead. Otherwise your primary account may get "Temporarily banned".
+WhatsApp doesn't encourage users to scrape personal data of other users. So it will be a good idea not to use your primary WhatsApp account while login, use any other account instead. Otherwise your primary account may get "Temporarily banned".
 
 Take a look - https://faq.whatsapp.com/general/temporarily-banned/about-temporarily-banned-accounts/?lang=en
 

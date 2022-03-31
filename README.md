@@ -1,5 +1,5 @@
 # online-notify
-Push desktop notification when someone comes online in WhatsApp
+Push desktop notification when someone comes online in WhatsApp. You no need to stay awake 24/7 :)
 
 ![sample](https://user-images.githubusercontent.com/100990020/156877847-5184382c-ab1b-4d3f-94ef-5c2b4aad8526.PNG)
 
